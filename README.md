@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="vpnus-banner.png" />
+</p>
+
 # VPN для России 2026 - Быстрый ВПН для YouTube, Instagram, Telegram, Discord с бесплатным пробным периодом
 
 ![Unknown-4 копия](https://github.com/user-attachments/assets/018c0358-3588-46d4-b64c-bc0c7e47f904)
